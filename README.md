@@ -1,1 +1,1 @@
-variant-discovery-analysis
+C. elegans variant discovery analysis toolkit
