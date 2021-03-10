@@ -1,0 +1,17 @@
+#DEFAULT-CONFIGURATIONS#
+PATH_TO_GATK4="$SCRIPT_DIR"/modules/gatk-4.1.4.1
+PATH_TO_GATK3="$SCRIPT_DIR"/modules/GenomeAnalysisTK-3.8-1-0-gf15c1c3ef
+PATH_TO_BWA="$SCRIPT_DIR"/modules/bwa-0.7.17
+PATH_TO_SAMTOOLS="$SCRIPT_DIR"/modules/samtools-1.10
+PATH_TO_BEDTOOLS2="$SCRIPT_DIR"/modules/bedtools2/bin
+PATH_TO_SNPEFF="$SCRIPT_DIR"/modules/snpEff
+SNPEFF_DATABASE=WBcel235.86
+PATH_TO_MANTA="$SCRIPT_DIR"/modules/manta-1.6.0.centos6_x86_64
+PATH_TO_STRELKA="$SCRIPT_DIR"/modules/strelka-2.9.10.centos6_x86_64
+PATH_TO_PROVEAN="$SCRIPT_DIR"/modules/provean-1.1.5
+REFERENCE_GENOME="$SCRIPT_DIR"/reference/genome/ce11.fasta
+ANNOTATIONS="$SCRIPT_DIR"/reference/annotations/Caenorhabditis_elegans.WBcel235.86.gtf
+LOCAL_R_PATH="$SCRIPT_DIR"/modules/R-3.6.3/bin/
+LOCAL_R_LIBS="$SCRIPT_DIR"/modules/R-3.6.3/library/
+LOCAL_PYTHON_PATH="$SCRIPT_DIR"/modules/Python-2.7.12/
+BLACKLISTED_VARIANTS="$SCRIPT_DIR"/variants/blacklist/ce11_blacklist.vcf
