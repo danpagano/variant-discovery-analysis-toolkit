@@ -1,0 +1,39 @@
+##########################
+#   Preprocessing data   #
+##########################
+
+--READ GROUPS--
+https://gatkforums.broadinstitute.org/gatk/discussion/6472/read-groups#latest
+
+--HOW TO HANDLE MULTIPLEXED SEQUENCING--
+https://gatkforums.broadinstitute.org/gatk/discussion/3060/
+
+--HOW TO PREPARE A FASTA FILE TO USE AS A REFERENCE--
+https://gatkforums.broadinstitute.org/gatk/discussion/1601/how-can-i-prepare-a-fasta-file-to-use-as-reference
+
+--HOW TO GENERATE AN UNMAPPED BAM (UBAM) FROM FASTQ--
+https://gatkforums.broadinstitute.org/gatk/discussion/6484
+
+--WORKFLOW: 01-FASTQTOSAM TO 05-MERGEBAMALIGNMENT--
+https://gatkforums.broadinstitute.org/gatk/discussion/6483/how-to-map-and-clean-up-short-read-sequence-data-efficiently
+
+--HOW TO MARK DUPLICATES--
+https://gatkforums.broadinstitute.org/gatk/discussion/6747
+
+--HOW TO RECALIBRATE BASE QUALITY SCORES--
+https://gatk.broadinstitute.org/hc/en-us/articles/360035890531-Base-Quality-Score-Recalibration-BQSR-
+https://gatkforums.broadinstitute.org/gatk/discussion/2801/howto-recalibrate-base-quality-scores-run-bqsr
+https://gatkforums.broadinstitute.org/gatk/discussion/1247/what-should-i-use-as-known-variants-sites-for-running-tool-x
+
+###########################
+#    Filtering variants   # 
+###########################
+
+--HOW TO APPLY HARD FILTERS TO A CALL SET--
+https://gatkforums.broadinstitute.org/gatk/discussion/2806/howto-apply-hard-filters-to-a-call-set
+https://gatkforums.broadinstitute.org/gatk/discussion/1255/using-jexl-to-apply-hard-filters-or-select-variants-based-on-annotation-values
+
+--GENERIC FILTER RECOMMENDATIONS--
+https://gatkforums.broadinstitute.org/gatk/discussion/3225/i-am-unable-to-use-vqsr-recalibration-to-filter-variants
+https://gatkforums.broadinstitute.org/gatk/discussion/6925/understanding-and-adapting-the-generic-hard-filtering-recommendations
+https://gatk.broadinstitute.org/hc/en-us/articles/360035890471
